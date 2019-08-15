@@ -1,4 +1,4 @@
-package nl.reactiverest.web.controller;
+package org.reactiverest.web.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 
     /**
-     *  Example request: curl -H 'Authorization: 5fd04f25-de33-4912-b9a6-396c775e7e2c' http://localhost:8080/home
+     *  Example request: curl -H 'Authorization: 48f3aed0-7139-4c26-8555-cdab5a30947b' http://localhost:8080/home
      */
     @GetMapping("/home")
     public ResponseEntity<String> helloWorld(){

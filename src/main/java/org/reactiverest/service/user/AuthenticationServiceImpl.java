@@ -1,9 +1,9 @@
-package nl.reactiverest.service.user;
+package org.reactiverest.service.user;
 
 import lombok.AllArgsConstructor;
-import nl.reactiverest.data.document.AuthenticationToken;
-import nl.reactiverest.data.document.User;
-import nl.reactiverest.data.repository.UserRepository;
+import org.reactiverest.data.document.AuthenticationToken;
+import org.reactiverest.data.document.User;
+import org.reactiverest.data.repository.UserRepository;
 import org.apache.commons.lang3.time.DateUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

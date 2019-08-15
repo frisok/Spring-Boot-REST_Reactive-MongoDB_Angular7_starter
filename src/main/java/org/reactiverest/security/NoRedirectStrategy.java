@@ -1,4 +1,4 @@
-package nl.reactiverest.security;
+package org.reactiverest.security;
 
 import org.springframework.security.web.RedirectStrategy;
 

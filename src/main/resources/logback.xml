@@ -15,7 +15,7 @@
         </encoder>
     </appender>
 
-    <logger name="nl.reactiverest" level="debug">
+    <logger name="org.reactiverest" level="debug">
         <appender-ref ref="FILE"/>
         <appender-ref ref="STDOUT"/>
     </logger>

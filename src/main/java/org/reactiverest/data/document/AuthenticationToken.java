@@ -1,4 +1,4 @@
-package nl.reactiverest.data.document;
+package org.reactiverest.data.document;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package nl.reactiverest.util;
+package org.reactiverest.util;
 
 import org.hamcrest.core.Is;
 import org.junit.Test;

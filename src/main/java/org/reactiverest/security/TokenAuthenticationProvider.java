@@ -1,9 +1,9 @@
-package nl.reactiverest.security;
+package org.reactiverest.security;
 
 
 import lombok.AllArgsConstructor;
-import nl.reactiverest.service.user.UserAuthenticationService;
-import nl.reactiverest.util.DateUtil;
+import org.reactiverest.service.user.UserAuthenticationService;
+import org.reactiverest.util.DateUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider;

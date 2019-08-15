@@ -1,7 +1,7 @@
-package nl.reactiverest.web.controller;
+package org.reactiverest.web.controller;
 
-import nl.reactiverest.data.UsernamePassword;
-import nl.reactiverest.service.user.UserAuthenticationService;
+import org.reactiverest.data.UsernamePassword;
+import org.reactiverest.service.user.UserAuthenticationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

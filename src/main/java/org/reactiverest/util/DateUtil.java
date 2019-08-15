@@ -1,4 +1,4 @@
-package nl.reactiverest.util;
+package org.reactiverest.util;
 
 import com.google.gson.internal.bind.util.ISO8601Utils;
 import org.apache.commons.lang3.time.DateFormatUtils;

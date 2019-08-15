@@ -1,4 +1,4 @@
-package nl.reactiverest.data;
+package org.reactiverest.data;
 
 import lombok.Getter;
 import lombok.Setter;

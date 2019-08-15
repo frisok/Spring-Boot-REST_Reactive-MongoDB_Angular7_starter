@@ -1,6 +1,6 @@
-package nl.reactiverest.data.repository;
+package org.reactiverest.data.repository;
 
-import nl.reactiverest.data.document.User;
+import org.reactiverest.data.document.User;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.stereotype.Repository;
 import reactor.core.publisher.Mono;
